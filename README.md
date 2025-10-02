@@ -1,5 +1,9 @@
 # ARSandbox
 
+#### Overview
+
+https://docs.google.com/document/d/1wGne_GsYEwiSlou9u6JkB8glgFFFq9VLNoNV1NP9SdM/edit?usp=sharing&urp=gmail_link
+
 #### Notes 
 Hardware: Computer w/NVIDIA graphics card; Kinect Camera, Projector.
 https://releases.ubuntu.com/18.04.6/
